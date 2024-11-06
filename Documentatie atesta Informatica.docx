@@ -1,0 +1,538 @@
+Proiect pentru obținerea atestării profesionale în informatică
+
+LICEUL TEORETIC ”I.C.BRĂTIANU” HAȚEG
+
+
+
+Sistemul Solar
+
+
+Web Site
+
+
+
+
+
+
+Profesor coordonator:                                  Elev:
+Boța Cristian Alin                                         Muntean Sergiu Ștefan
+                   
+                                                                         
+
+
+
+
+
+
+Promoția 2022
+
+Cuprins
+
+
+
+1.	Informatica
+
+2.	Internetul
+
+3.	Microsoft Visual Studio Code
+
+4.Elemente de baza ale limbajului HTML și CSS
+
+5.Scopul realizarii siteului
+
+6.Notiuni teoretice referitoare la realizarea siteului
+
+7.Bibliografie și Sitografie
+
+
+
+
+
+
+
+
+
+
+
+
+1. Informatica
+
+	Informatica este stiința care studiază metodele, tehnicile si mijloacele de prelucrare automată a datelor în scopul obținerii informațiilor.
+
+	Informatica s-a născut ca știință în al treilea pătrar al secolului al XX-lea, fiind dezvoltată dintr-un pilon al altei științe – cibernetica. Un aspect singular al științei informaticii este că dezvoltarea și importanța ei in viața socială este strâns legată de inventarea si dezvoltarea calculatoarelor electronice. Ea s-a inchegat ca știință interdisciplinară, împrumutând instrumente din matematică: teoria informației, cercetarea operațională, teoria algoritmilor, limbaje formale etc., din fizică: componente magnetice, componente electronice combinaționale, componente de calcul etc., din biologie: funcțiile creierului de memorare si gândire, comunicarea între organisme, genetica, etc.
+
+	Denumirea științei a apărut prin contragere din exprimarea franceză information automatique, care sintetizează esența ei. Partea anglo-americană preferă să o numească, însa, Computer Science, impropriu într-un fel, deoarece prezintă calculatorul ca esență a acestei științe, el fiind doar mijlocul principal de prelucrare.
+
+	Activitățile omului reprezintă, in mare parte, prelucrări de date si informații. Informatica oferaă posibilitatea definirii unei corespondențe intre gândirea umană și reprezentarea ei codificată. Problema devine mai complexa când se lucrează cu informații compuse prin subordonare. Este nevoie de o structura care sa definească foarte clar relațiile dintre informațiile din cadrul compunerii.
+
+	Această proprietate de structurare o posedă limbajul informatic, care impune o anume structură a frazei în care fiecare parte a ei desemnează, codifică, un sens.
+
+	Problema limbajului este o problemă centrală in informatică. Deoarece limbajul natural nu realizează destul de riguros legatura dintre formă și sens, informatica și-a creat propriile limbaje, cu gramaticile lor, astfel incât să existe o asemenea legatură între sens și formă, încât semnificația unei fraze să se deducă, fără ambiguitate, din  sintaxa sa.
+
+2.	Internetul
+Internetul este o rețea mondială de informații bazată pe calculatoare. Internetul este compus dintr-un numar mare de rețele interconectate mai mici, numite interrețele. Aceste interrețele pot conecta zeci, sute sau mii de claculatoare, permițându-le să schimbe informații între ele sau diferite resurse, ca supercomputere și baze de date. Internetul a făcut posibil ca oamenii de pe tot cuprinsul globului să comunice eficient și fără costuri prea mari. Spre deosebire de mediile de transmitere traditionale, ca radio sau televiziunea, Internetul este un sistem decentralizat. Fiecare individ conectat poate comunica cu oricine pe internet, poate publica ideei, si poate vinde produse cu un minim cost suplimentar. În viitor Internetul poate avea un impact dramatic asupra educatiei superioare și asupra afacerilor pe masure ce din ce în ce mai multe universități oferă cursuri si comapniile oferă produse si servicii online.
+Interrețelele din care este alcătuit Internetul sunt de obicei rețele cu acces public, însemnând că resursele rețelelor pot fi împărțite cu oricine se loghează, ori accesează rețeaua. Alte tipuri de interrețele, numite intrarețele, sunt inchise pentru folosul public. Intrarețelele sunt cele mai fiolosite retele  de calculatoare folosite de companii si organizatii in care este important sa se restrictioneze accesul la informațiile conținute de rețea.
+
+
+
+
+
+
+
+3.	Microsoft Visual Studio Code
+Introducere
+	Visual Studio Code este un editor de codare gratuit, realizat de Microsoft pentru Windows, Linus si macOS, care vă ajută să începeți rapid codarea. Include suport pentru depanare, evidențierea sintaxelor, completarea inteligentă a codului, fragmente, refactorizarea codului și Git încorporat. Utlizatorii pot schimba tema, comenzile rapide de la tastatură, preferințele și pot instala externsii care adaugă funcționalități suplimentare. Folosiți-l pentru a codifica în orice limbaj de programare, fără a schimba editorii de text. Visual Studio Code are suport pentru multe limbaje, inclusiv Python, Java, C++, JavaScript și multe altele.
+În Sondajul pentru dezvoltatori Stack Overflow 2021, Visual Studio Code a fost clasat drept cel mai popular instrument de mediu pentru dezvoltatori, 70% din 82.000 de respondenți raportând că îl folosesc.
+Caracteristici
+   Extensii Extensiile sunt pluginuri care adaugă funcționalități noi la Visual Studio Code. Acestea pot fi instalate de pe Marketplace și pot fi disponibile într-o varietate de tipuri diferite: de la evidențierea sintaxei până la completarea codului.
+   Keybindings Keybindings(legăturile de taste) sutn modul în care controlezi ceea ce se întâmplă atunci când apăsați o tastă. Puteți schimba ceea ce fac anumite taste și puteți chiar să configurați combinații de taste care declanșează mai multe acțiuni.
+   Snippet-urile Snippet-urile sunt bucăți mici de cod pe care le puteți introduce în punctul în care scrieți de la tastatură. Sunt grozave atunci când doriți să introduceți cod care se repetă.
+   Spațiile de lucru(Workspace-urile) Workspace-urile sunt colecții de fișiere pe care le puteți salva și încărca. Le puteți crea și le puteți partaja altora.
+   Depanarea Depanarea este procesul de găsire și remediere a erorilor din codul dvs. Puteți să vă depanați codul în browser și apoi să îl rulați în Visual Studio Code.
+   Limbajele Visual Studio Code acceptă toate limbajele pe care le puteți folosi în mediul dvs. de programare. Puteți schimba limbajul făcând clic pe fereastra de limbaj din colțul din dreapta sus al editorului. Începând cu 2022, există aproximativ 6360 de limbaje acceptate.
+   Învățarea Acest tool evidențiază cuvintele cheie din codul dvs. în culori diferite pentru a vă ajuta să identificați cu ușurință modelele de codare și să învățați mai rapid. De asemenea, puteți profita de funcții precum IntelliSense și Peek Definition, care vă ajută să înțelegeți cum pot fi utilizate funcțiile și cum se leagă între ele.
+   Personalizarea Puteți schimba aspectul VS Code alegând fonturile și pictogramele preferate și alegând dintre sutele de teme de culoare.
+   Notebook-urile Dacă doriți să încercați un proiect în știința datelor sau în vizualizarea datelor, puteți utiliza notebook-urile în cadrul VS Code. Rulați codul pas cu pas și vizualizați și interacționați cu datele, variabilele, graficele și plot-urile dumneavoastră.
+
+ 
+Jupyter Notebook – un exemplu de notebook
+ 
+Captură a paginii HTML pentru o parte din pagina pentru planeta Jupiter
+4.	Elemente de baza ale limbajului HTML și CSS
+
+Generalități
+HTML (Hyper Text Markup Language) limbajul de marcare standard pentru crearea paginilor Web, care descrie structura unei pagini Web și constă într-o serie de elemente care îi spun browserului cum să afișeze conținutul paginei Web.
+HTML este un format text proiectat pentru a putea fi citit și editat de oameni utilizând un editor de text simplu. Totuși scrierea și modificarea paginilor în acest fel solicită cunoștințe solide de HTML și este consumatoare de timp. Editoarele grafice (de tip WYSIWYG) cum ar fi Macromedia Dreamweaver, Adobe GoLive sau Microsoft FrontPage permit ca paginile web sa fie tratate asemănător cu documetele Word, dar cu observația că aceste programe generează un cod HTML care este de multe ori de proastă calitate.
+HTML se poate genera direct utilizând tehnologii de codare din partea serverului cum ar fi PHP, JSP sau ASP. Multe aplicații ca sistemele de gestionare a conținutului, wiki-uri și forumuri web generează pagini HTML.
+HTML este de asemenea utilizat în e-mail. Majoritatea aplicațiilor de e-mail folosesc un editor HTML încorporat pentru compunerea e-mail-urilor și un motor de prezentare a e-mail-urilor de acest tip. Folosirea e-mail-urilor HTML este un subiect controversat și multe liste de mail le blochează intenționat.
+Documentele HTML sunt exclusiv de tip text (ASCII);  ele pot fi editate direct, prin comenzi specifice sistemului de operare folosit. In WINDOWS, se poate utiliza NOTEPAD,WORDPAD sau orice alt editor de texte.
+
+Scurt Istoric
+World Wide Web, sau WWW, sau Web a apãrut la sfârsitul anilor '80 când cercetãtorii de la CERN, Laboratorul European pentru fizica particulelor, au dezvoltat o retea pentru a avea acces mai usor la documentele produse de diversele laboratoare. În 1990, ei au introdus un browser doar pentru texte si au dezvoltat HTML. În 1991 au implementat Web la CERN.
+În 1992 cercetãtorii de la CERN au introdus Web în comunitatea Internet si aceasta a început revolutia (S.E. Eddy - HTML in plain English).
+Ceea ce diferentiazã WWW de celealte componente ale Internet-ului este tocmai hipertextul, care si-a gãsit în Web calea idealã de exprimare. Toate documentele accesibile în Web sunt legate între ele indiferent de serverul pe care sunt memorate si indiferent de locul geografic unde sunt.
+Trecerea de la un document la altul, de la un subiect la altul, de la un loc la altul etc produce o impresie puternicã asupra utilizatorului, îi dã acestuia certitudinea cã totul este potrivit intereselor lui, potrivit ritmului propriu de întelegere.
+
+Editorii
+     Editorii HTML profesioniști pot fi utilizați pentru a proiecta și modifica paginile web, în cazul de față Visual Studio Code. Cu toate acestea, un editor de text simplu, cum ar fi Notepad (PC) sau TextEdit (Mac) este recomandat pentru a învăța HTML (Mac).
+     Consider că învățarea HTML este cel mai bine realizată prin utilizarea unui editor de text simplu, însă, pentru a face progrese, este recomandabil ca, de la bun început să se încerce utilizarea unei aplicații cu mai multe funcționalități, care să poată asigura uitlizarea opțiunilor mai avansate, care conduc la generarea unui site mai performant și mai bine optimizat.
+    
+    Prezentarea succintă a limbajului HTML
+Etichetele și tagurile
+   Pentru a crea un fisier html mai intai creati un fisier text, apoi ii redenumiti extensia din txt in html
+    Elemetele sunt incadrate de tag-uri. Tag-urile sunt simbolurile care marcheaza inceputul si sfarsitul unui element. Tag-ul pentru inceput este < iar pentru sfarsit este >.
+    În marea lor majoritate elementele sunt pereche, una de deschidere <eticheta> si alta de inchidere </eticheta>. Browserul interpreteaza aceste etichete afisand rezultatul pe ecran. HTML nu este un limbaj case sensitiv (nu face deosebirea intre litere mici si mari).
+   Pagina principala a unui domeniu este fisierul index.html. Aceasta pagina este setata a fi afisata automat la vizitarea unui domeniu.
+De exemplu la vizitarea domeniului www.nume.ro este afisata pagina www.nume.ro/index.html.
+   Unele etichete permit utilizarea de atribute care pot avea anumite valori:
+<eticheta atribut="valoare"> ... </eticheta>
+   Toate paginile HTML incep cu eticheta <html> si se termina cu eticheta </html>.
+   În interiorul acestor etichete gasim perechea <head> </head> si perechea <body> </body>.
+    Zona Head
+   Zona head conține titlul paginii intre etichetele <title> si </title>, descrieri de tip <meta>, stiluri pentru formatarea textului, scripturi si linkuri catre fisiere externe (de exemplu scripturi Javascript, fisiere de tip CSS sau favicon).
+   Continutul etichetei title este afisat de browser pe cea mai de sus linie (banda albastra de sus).
+   Etichetele de tip meta contin cuvinte cheie, descrierea paginii, date despre autor, informatii utile motoarelor de cautare și au următorul format:
+ 
+     Legăturile
+Exemplu: link catre un fisier extern CSS:
+ 
+    Zona Body
+Zona body gazduieste practic toate etichetele afisate de browser pe ecran. Exemplu: o pagina HTML cu titlul Exemplu iar continutul Continut pagina
+ 
+Comentariile
+Comentariul în HTML poate fi introdus astfel:
+ 
+	Formatarea textului:
+În HTML trecerea la un rând nou se face doar prin introducerea etichetei <br> iar pentru paragraf nou cu eticheta <p>.
+Folosind etichete adecvate textul poate fi formatat.
+Spre exemplu fonturilor li se poate modifica: mărimea, culoarea, forma (normal, bold, italic), familia (Arial, Verdana, etc.), textul poate fi aliniat pe orizontală sau verticală iar titlurile (header), de la 1 la 6, sunt diferite ca mărime (1 cel mai mare iar 6 cel mai mic).
+
+Etichetele <span> și </span> delimitează un sir de caractere in vederea formatării.
+
+Etichetele <div> si </div> sunt similare etichetelor <span> si </span>, cu diferența că formatează mai multe elemente si introduc un rand nou înainte și după sfârșitul zonei formatate.
+
+Unul din atributele blocului div este align care poate lua valorile:
+center -- aliniere pe centru
+left -- aliniere la stanga
+right -- aliniere la dreapta
+
+În situatia în care dorim ca textul introdus să fie afisat exact așa cum a fost introdus (text preformatat) în fișierul sursă vom folosi pereche de etichete <pre> si </pre>.
+Există și alte opțiuni speciale de formatare a textului, după cum sunt evidențiate mai jos.
+   
+Tabelele
+Tabelele HTML permit dezvoltatorilor web să aranjeze datele în rânduri și coloane.
+Un tabel în HTML este format din celule de tabel în interiorul rândurilor și coloanelor.
+Un tabel simplu în HTML are următoarea structură:
+ 
+
+ 
+	Listele
+Pot fi neordonate sau ordonate.
+O listă neordonată începe cu eticheta <ul>. Fiecare element din listă începe cu eticheta <li>.
+
+Elementele din listă vor fi marcate implicit cu marcatori (cercuri negre mici):
+   
+
+Eticheta HTML <ol> definește o listă ordonată. O listă ordonată poate fi numerică sau alfabetică.
+O listă ordonată începe cu eticheta <ol>. Fiecare element din listă începe cu eticheta <li>.
+Elementele din listă vor fi marcate implicit cu numere:
+ 
+ 
+
+Inserarea imaginilor
+
+   Imaginile pot îmbunătăți designul și aspectul unei paginii web.
+   Eticheta HTML <img> este folosită pentru a încorpora o imagine într-o pagină web.
+   Imaginile nu sunt inserate din punct de vedere tehnic într-o pagină web; imaginile sunt legate de pagini web. Eticheta <img> creează un spațiu de stocare pentru imaginea la care se face referire.
+   Eticheta <img> este goală, conține numai atribute și nu are o etichetă de închidere.
+   Eticheta <img> are două atribute obligatorii:
+   	src - Specifică calea către imagine
+  	 alt - Specifică un text alternativ pentru imagine
+   Valoarea atributului alt ar trebui să descrie imaginea:
+   Atributul alt necesar oferă un text alternativ pentru o imagine, dacă utilizatorul din anumite motive nu o poate vizualiza (din cauza conexiunii lente, a unei erori în atributul src sau dacă utilizatorul folosește un cititor de ecran).
+   Puteți utiliza atributul stil pentru a specifica lățimea și înălțimea unei imagini
+   Alternativ, puteți utiliza atributele lățime și înălțime:
+ 
+ 
+   Atributele lățime și înălțime definesc întotdeauna lățimea și înălțimea imaginii în pixeli.
+   Cu toate acestea, vă sugerăm să utilizați atributul style. Împiedică foile de stiluri să modifice dimensiunea imaginilor:
+ 
+ 
+   Dacă aveți imaginile într-un folder, trebuie să includeți numele folderului în atributul src:
+Exemplu:
+ 
+HTML permite GIF-uri animate:
+ 
+ 
+
+Adăugarea videoclipurilor
+
+   Elementul HTML <video> este folosit pentru a afișa un videoclip pe o pagină web.
+   Pentru a afișa un videoclip în HTML, utilizați elementul <video>:
+ 
+ 
+   Atributul comenzii adaugă controale video, cum ar fi redarea, pauză și volumul.
+
+   Este o idee bună să includeți întotdeauna atributele de lățime și înălțime. Dacă înălțimea și lățimea nu sunt setate, pagina ar putea pâlpâi în timp ce videoclipul se încarcă.
+   Elementul <sursă> vă permite să specificați fișiere video alternative dintre care browserul poate alege. Browserul va folosi primul format recunoscut.
+   Google Chrome este unul dintre browserele ideale, care suportă video-uri.
+
+Despre CSS
+
+   Foile de stil în cascadă, denumite Cascading Style Sheets (CSS) sunt folosite pentru a formata aspectul unei pagini web.
+   Cu CSS, puteți controla culoarea, fontul, dimensiunea textului, distanța dintre elemente, modul în care elementele sunt poziționate și aranjate, ce imagini de fundal sau culori de fundal vor fi utilizate, diferite afișaje pentru diferite dispozitive și dimensiuni de ecran și multe altele!
+
+CSS poate fi adăugat documentelor HTML în 3 moduri:
+
+   --Inline - prin utilizarea atributului de stil în interiorul elementelor HTML
+   --Intern - prin utilizarea unui element <style> în secțiunea <head>
+   --Extern - prin utilizarea unui element <link> pentru a conecta la un fișier CSS extern
+
+Un CSS intern este folosit pentru a defini un stil pentru o singură pagină HTML.
+
+   Un CSS intern este definit în secțiunea <head> a unei pagini HTML, în cadrul unui element <style>.
+
+   Următorul exemplu setează culoarea textului TOATE elementele <h1> (pe pagina respectivă) la albastru, iar culoarea textului TOATE elementele <p> la roșu. În plus, pagina va fi afișată cu o culoare de fundal „albastru praf”:
+ 
+ 
+
+Avantajul unui CSS intern este faptul că poate ajuta la customizarea unei anumite instanțe (element) din pagina Web.
+
+
+   O foaie de stil externă (Un CSS extern) este folosită pentru a defini stilul pentru multe pagini HTML.
+   Pentru a utiliza o foaie de stil externă, adăugați un link către aceasta în secțiunea <head> a fiecărei pagini HTML:
+
+ 
+
+Foaia de stil externă poate fi scrisă în orice editor de text. Fișierul nu trebuie să conțină cod HTML și trebuie salvat cu extensia .css.
+
+Așa arată fișierul „styles.css”:
+.container{
+    text-align: center;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+}
+
+
+CSS-urile externe sunt foarte folositoare pentru Clasele de obiecte
+
+Atributul Clasă
+   Atributul de clasă este adesea folosit pentru a indica un nume de clasă într-o foaie de stil. 
+   Acest atribut conține mai multe entități, obiecte, asupra cărora pot fi ulterior adăugate efecte de stil.
+   Iată un exemplu mai jos:
+  
+   Clasa “leftRow” conține 2 entități, imaginea Jupiter2.jpg și textul ,,Rege zeilor este și regele planetelor.”, care va suferi, ulterior, aceleași modificări, conform stilului de mai jos:
+ 
+ 
+
+   Un avantaj deosebit de important este faptul că aplicația permite utilizarea punctului “.”,înaintea denumirii claselor unui obiect. Acest punct ne permite să separăm conținutul unei clase în funcție de categoria de date din care fac parte, astfel că, pentru a aplica stil doar imaginilor din clasă, punem punctual, apoi apelăm clasa și precizăm tipul de etichetă, care să indice ce tip de conținut urmează să fie modificat din clasa noastră.
+  Daca vrem, spre exemplu, să aplicăm modificări unui video, ar trebui să folosim: .leftRow video
+
+Crearea unui slideshow
+   Slideshowurile sunt, de cele mai multe ori, înșiruiri de poze, care pot fi schimbate automat în timp ce website-ul rulează.
+  Pentru a crea un slideshow cu planete, este nevoie atât de HTML, cât și de CSS.
+  Slideshow-urile mai poartă, în termeni de programare, și denumirea de Carousel.
+ 
+
+Fiecare item al Carouselului poate fi customizat cu ajutorul stilurilor:
+ 
+Este de bine observat faptul că, aceste slideshow-uri pot conține și text căruia îi putem aplica diferite animații, pe care le introducem în CSS:
+ 
+   Aceste lucruri fiind spuse, ne putem construi primul Site Web, folosind doar HTML și CSS.
+
+
+
+
+
+
+
+
+5.Scopul realizării siteului
+Am realizat acest site web despre  Sistemul Solar, deoarece este una dintre temele mele preferate, fiind fascinat de vastitatea Universului, structura sa și corpurile cerești care datează din timpuri îndepărtate. Cred că plantele sunt una dintre atracțiile oricărui om care își dorește să afle mai multe despre Cosmos și să înțeleagă anumite legi ale fizicii, dar și să descopere curiozități care îi pot capta atenția.
+Consider că limbajul HTML este o modalitate complexă de a crea aplicații cu scop educativ, care să contribuie la învățarea și dezvoltarea culturii copiilor, care doresc să afle orice despre mediul înconjurător și  despre spațiu, mai ales putând fi accesat din orice parte a lumii, datorită compatibilității cu browserele web.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.Notiuni teoretice referitoare la realizarea siteului
+	Acest site a fost realizat cu ajutorul aplicației Microsoft Visual Studio Code, folosind HTML și CSS. Codul sursă al proiectului poate fi vizualizat cu orice editor de text, precum Notepad, Microsoft Office Word, Adobe Dreamweaver, Microsoft Visual Studio Code etc.
+          Din punct de vedere structural, pagina principală, index.html este construită cu ajutorul div-urilor, span-urilor, claselor de obiecte și a tuturor celorlalte noțiuni teoretice prezentate în capitolul 4.
+          Folosindu-mă de legăturile hyperlink, am realizat butoanele meniului principal prezent la începutul paginii web.
+	Pentru banner-ul folosit drept fundal al paginii web, am uitilizat aplicația Adobe Photoshop 2021, cu ajutorul căreia am redimensionat imaginea, am aplicat anumite efecte de culoare și am crescut contrastul pentru a oferi o estetică mai impunătoare celor 9 planete, demnă unor corpuri cerești aflate în Cosmos.
+          Titlul proiectului este de tip Heading, cu o dimnesiune și format de text h3.
+ 
+   Meniul proiectului cuprinde toate cele 9 planete ale Sistemului Solar, prezentate, în ordine, în funcție de distanța la care se află față de Soare: Mercur, Venus, Terra, Marte, Jupiter, Saturn, Uranus, Neptun, Pluto. Acest meniu a fost, de asemenea, realizat în HTML și CSS (cascading style sheet), pentru care s-a folosit, în principal, programul Microsoft Visual Studio Code.
+   Pagina principală, index.html, prezintă câteva curiozități despre Calea Lactee (Calea Laptelui), galaxia în care se află Sistemul Nostru Solar, dar și un slideshow cu toate cele 9 planete componente, dedesubtul cărora sunt plasate 2 video-uri informative cu privire la această temă.
+   Din meniu, pot fi alese următoarele subpagini web, în care sunt prezentate date relevante despre fiecare dintre planetele Sistemului.
+   Pagina Mercur începe cu un slideshow de 3 poze, în cadrul cărora prima este Soarele, a doua planeta Mercur și al treilea planta Venus, pentru a putea constitui, asupra vizitatorilor site-ului, o imagine de ansamblu despre poziția planetei în galaxie. De asemenea, se regăsesc și informații relevante despre această planetă vulcanică în cadrul celei de a 2 poze a carouselului, care sunt ilustrate cu ajutorul textului animat de CSS. Dedesubtul acestuia, se regăsesc două paragrafe de text, ce conțin alte informații interesate, însoțite de 2 poze semnificative cu planeta.
+   Conform structurii paginei Mercur, au fost realizate și paginile Venus, Terra, Marte, Jupiter, Saturn, Uranus, Neptun și Pluto, cu unele ajustări, însă, în ceea ce privește conținutul informativ, care este caracteristic fiecărei planete, conținutul tag-urilor de tip <p> fiind diferit de la o planetă la alta, iar, carouselul prezintă, de fiecare dată, planeta anterioară și planeta care urmează în Sistemul Solar, între ele regăsindu-se o imagine a planetei vizualizate la timpul curent, căreia i se atașează textul animat și, mai jos, 2 paragrafe și 2 imagini representative.
+   Excepția de la regulă o face pagina Pluto, care, prezintă în ceea de-a treia poză a slideshow-ului, o imagine cu harta Sistemului nostrum Solar, deoarece este ultima dintre planete.
+
+Codul sursă al paginii principale ‘index.html’ :
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Atestat Informatica Muntean Sergiu Stefan</title>
+        <link rel="stylesheet" href="mainstyle.css">
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    </head>
+    
+    <body>
+        <div id="imageTitle">SISTEMUL SOLAR</div>
+        <img src="images/SistemulSolarInfo.png" style="width: 100%;">
+        <div id="navbar">
+            <a class="navbutton" href="mercury.html">Mercur</a>
+            <a class="navbutton" href="venus.html">Venus</a>
+            <a class="navbutton" href="terra.html">Terra</a>
+            <a class="navbutton" href="marte.html">Marte</a>
+            <a class="navbutton" href="jupiter.html">Jupiter</a>
+            <a class="navbutton" href="saturn.html">Saturn</a>
+            <a class="navbutton" href="uranus.html">Uranus</a>
+            <a class="navbutton" href="neptun.html">Neptun</a>
+            <a class="navbutton" href="pluto.html">Pluto</a>
+        </div>
+
+        <div id="content">
+            <b>
+                &emsp;Calea Lactee este una dintre numeroasele galaxii care există în univers.
+            </b>
+
+            <p>
+                &emsp;Această galaxie are forma unei spirale, este foarte mare şi are nevoie de aproape 200 milioane de ani pentru a face o rotaţie completă, în timp ce Pământul are nevoie de 365 de zile pentru a face o rotaţie.
+            </p>
+            
+            <p>
+                &emsp; Sunt mai mult de 100 de milioane de stele în Calea Lactee;
+
+            <p>
+                &emsp;În 1610 Galileo a fost primul care a demonstrat faptul că galaxia Calea Lactee era compusă din mai multe stele;
+            </p>
+
+            <p>
+                &emsp;Centrul galaxiei Calea Lactee nu poate fi văzut pentru că este acoperit de gaz şi praf;
+
+            <p>
+                &emsp;Lumina ajunge în 100.000 de ani de la un capăt la altul al Căii Lactee;
+            </p>
+
+            <p>
+                &emsp;Numele este dat de aspectul sau “lăptos” pe care îl are pe cer, noaptea;
+            </p>
+
+            <p>
+                &emsp;Până în 1924 Calea Lactee era singura galaxie descoperită;
+            </p>
+
+            <p>
+                &emsp;Cea mai veche stea din galaxia Calea Lactee are peste 13 milioane de ani;
+            </p>
+
+            <p>
+                &emsp;Calea Lactee are o vechime de 14 milioane de ani;
+            </p>
+
+            <p>
+                &emsp;Calea Lactee a apărut ca urmare a alăturării mai multor galaxii;
+            </p>
+
+            <p>
+                &emsp;În interiorul galaxiei Calea Lactee se află cel puţin 100 de milioane de planete.
+            </p>
+         </div>
+
+         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
+            </ol>
+
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100" src="images/sun.jpg">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Soarele</h5>
+                        <p>Acesta este Soarele</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="images/Mercury.jpg">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Mercur</h5>
+                        <p>Acesta este Mercur</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="images/venus.jpg">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Venus</h5>
+                        <p>Acesta este Venus</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="images/Earth.png">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Terra</h5>
+                        <p>Aceasta este Terra</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="images/Mars.png">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Marte</h5>
+                        <p>Acesta este Marte</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="images/Jupiter.png">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Jupiter</h5>
+                        <p>Acesta este Jupiter</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="images/saturn.png">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Saturn</h5>
+                        <p>Acesta este Saturn</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="images/neptune.png">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Neptun</h5>
+                        <p>Acesta este Neptun</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="images/pluto.png">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Pluto</h5>
+                        <p>Acesta este Pluto</p>
+                    </div>
+                </div>
+            </div>
+            
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </body>
+
+    <br> <br>
+
+    <div>
+        <span class="videoclip">
+            <video width="1075.2" height="604.8" controls>
+                <source src="SistemulSolar.mp4" type="video/mp4">
+                <source src="SistemulSolar.ogg" type="video/ogg">
+            </video>
+            </span>
+        
+            <span class="videoclip">
+                <video width="1075.2" height="604.8" controls>
+                    <source src="SistemulSolar2.mp4" type="video/mp4">
+                    <source src="SistemulSolar2.ogg" type="video/ogg">
+                </video>
+            </span>
+        
+    </div>
+   
+</html>
+
+
+
+7.Bibliografie și Sitografie
+- Alin Burța, Informatică, Manual pentru clasa a 12-a Editura All
+- https://code.visualstudio.com/
+- https://www.w3schools.com/
+- https://www.astro-urseanu.ro/sistemul_solar.html
+- https://ro.wikipedia.org/wiki/HTML5
+- https://ro.wikipedia.org/wiki/HyperText_Markup_Language
+- http://www.drogoreanu.ro/tutorials/cap1.php
+
+
+
+
